@@ -1,0 +1,43 @@
+Dependencies for Project 'keyboard_test', Target 'keyboard_test': (DO NOT MODIFY !)
+F (.\main.c)(0x47456DA0)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (..\common\include\44blib.h)(0x47456DA0)
+I (..\common\include\44b.h)(0x47456DA0)
+I (..\common\include\option.h)(0x47456DA0)
+F (.\8led.c)(0x47456DA0)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\8led.o --omf_browse .\obj\8led.crf --depend .\obj\8led.d)
+I (..\common\include\44b.h)(0x47456DA0)
+I (..\common\include\option.h)(0x47456DA0)
+I (..\common\include\44blib.h)(0x47456DA0)
+I (..\common\include\def.h)(0x47456DA0)
+I (iic.h)(0x47456DA0)
+F (.\iic.c)(0x47456DA0)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\iic.o --omf_browse .\obj\iic.crf --depend .\obj\iic.d)
+I (..\common\include\44b.h)(0x47456DA0)
+I (..\common\include\option.h)(0x47456DA0)
+I (..\common\include\44blib.h)(0x47456DA0)
+I (..\common\include\def.h)(0x47456DA0)
+I (iic.h)(0x47456DA0)
+F (.\keyboard.c)(0x47456DA0)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\keyboard.o --omf_browse .\obj\keyboard.crf --depend .\obj\keyboard.d)
+I (..\common\include\44b.h)(0x47456DA0)
+I (..\common\include\option.h)(0x47456DA0)
+I (..\common\include\44blib.h)(0x47456DA0)
+I (..\common\include\def.h)(0x47456DA0)
+I (iic.h)(0x47456DA0)
+F (.\iic.h)(0x47456DA0)()
+F (..\common\RuninFlash.sct)(0x47456DA0)()
+F (..\common\RuninRAM.sct)(0x47456DA0)()
+F (..\common\src\uhal.c)(0x47456DA0)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\uhal.o --omf_browse .\obj\uhal.crf --depend .\obj\uhal.d)
+I (..\common\include\uhal.h)(0x47456DA0)
+I (..\common\include\44b.h)(0x47456DA0)
+I (..\common\include\option.h)(0x47456DA0)
+I (..\common\include\44blib.h)(0x47456DA0)
+F (..\common\src\44blib.c)(0x5BF51A58)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\44blib.o --omf_browse .\obj\44blib.crf --depend .\obj\44blib.d)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C7C554)
+I (..\common\include\44b.h)(0x47456DA0)
+I (..\common\include\option.h)(0x47456DA0)
+I (..\common\include\44blib.h)(0x47456DA0)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\ctype.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+F (..\common\src\S3C44B0X.s)(0x47456DA0)(--cpu ARM7TDMI -g --apcs=interwork -I..\common\include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\obj\s3c44b0x.o --depend .\obj\s3c44b0x.d)
+F (.\readme.txt)(0x47456DA0)()
+F (..\common\ReadMeCommon.txt)(0x47456DA0)()

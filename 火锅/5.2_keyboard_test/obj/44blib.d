@@ -1,0 +1,9 @@
+.\obj\44blib.o: ..\common\src\44blib.c
+.\obj\44blib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\44blib.o: ..\common\include\44b.h
+.\obj\44blib.o: ..\common\include\option.h
+.\obj\44blib.o: ..\common\include\44blib.h
+.\obj\44blib.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\44blib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\44blib.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\obj\44blib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

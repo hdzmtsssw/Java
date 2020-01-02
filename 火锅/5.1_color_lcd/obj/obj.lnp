@@ -1,0 +1,17 @@
+--cpu ARM7TDMI
+".\obj\main.o"
+".\obj\bmp.o"
+".\obj\bmp_data.o"
+".\obj\lcd.o"
+".\obj\ascii6x8.o"
+".\obj\ascii8x16.o"
+".\obj\keyboard.o"
+".\obj\iic.o"
+".\obj\8led.o"
+".\obj\uhal.o"
+".\obj\44blib.o"
+".\obj\s3c44b0x.o"
+--strict --scatter "..\common\RuninRAM.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\lst\obj.map" -o .\obj\obj.axf
